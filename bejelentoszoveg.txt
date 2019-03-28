@@ -12,9 +12,9 @@ B3nc3-rész:
 Az álltalunk bevezetett változtatások pedig a következőek:
 Egy táblázatba írtuk össze a műsorok beosztását, mikor melyik van szüneten, melyiknek folynak éppen a háttér munkálatai és melyiket a hét melyik napján fogjuk publikálni. Ezzel azt tettük lehetővé, hogy mind a MoviesTalk, a Kezdő filmesek illetve a Videóvágásról szóló oktató sorozat heti rendszerességgel lenne képes visszatérni.
 
-A másik beújításunk egy project management és felhőtárhely programba vezetjük munkáinkat, és az ahhoz szükséges apróbb fájlokat tesszük fel oda, így nem lesz probléma azzal, hogy mit s mikor és hogy is kellett volna csinálni, illetve az eltünedező fájlokkal. Innentől kezdve minden videóhoz elemeket listázunk fel és vezetni tudjuk ezekből mi van már meg, illetve mi nincsen. Így valószínűleg a videók minőségén is képesek leszünk javítani.
+A másik újításunk egy project management és felhőtárhely szolgáltatás használata, így nekünk átláthatóbb, hogy kire milyen feladatok várnak és ezeket meddig kell elvégezni. Innentől kezdve minden videóhoz teendőket listázunk fel és vezetni tudjuk ezekből mi van már meg, illetve mi nincsen. Így valószínűleg nem csak a videók minőségén, de a szervezettségünkön is képesek leszünk javítani.
 
-Fontos kiemeljem, hogy mivel én külföldi szakmai gyakorlaton leszek kerek egy hónapig, így a jővő héten érkezik a kezdő filmesekhez egy három és feledik epizód, majd egy hónap szünet egészen biztosan lesz a negyedik részig. Utána azonban heti rendszerességgel érkeznek majd a Kezdő filmesek epizódok. Addig pedig Szitka fogja tartani a frontot a videóival.
+Fontos kiemeljem, hogy mivel én egy hónapig külföldön leszek, így a jővő héten érkezik a kezdő filmesekhez egy három és feledik epizód, majd a negyedik rész májusban fog kikerülni. Utána azonban heti rendszerességgel érkeznek majd a Kezdő filmesek epizódok. Addig pedig Szitka fogja tartani a frontot a videóival.
 ------------------------------------------------------------------------------------------
 Szitka-rész:
 
@@ -24,4 +24,4 @@ Ami a videóvágásról szóló sorozatomat A videó vágás alapjait illeti, a 
 ----------------------------------------------------------------------------------------
 B3nc3 rész:
 
-Remélem tetszett nektek ez a kis összefoglaló videó és kedvet teremtettünk nektek újra a videóinkhoz/műsorainkhoz. Ha tetszett like-old ezt a videót és ha kíváncsi vagy továbbá is a munkásságunkra iratkozz fel. Sziasztok.
+Remélem tetszett nektek ez a kis összefoglaló videó és kedvet teremtettünk nektek újra a videóinkhoz/műsorainkhoz. Ha tetszett like-old ezt a videót és ha kíváncsi vagy továbbá is a munkásságunkra iratkozz fel. Köszönjük a figyelmet, sziasztok.
